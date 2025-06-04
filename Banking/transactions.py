@@ -4,3 +4,4 @@ def deposit(account, amount):
 
 def withdraw(account , amount):
     account.withdraw(amount)
+    print("---------")
